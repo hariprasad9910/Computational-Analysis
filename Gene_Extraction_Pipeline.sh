@@ -20,13 +20,6 @@ The pipeline performs the following steps:
 - BEDTools
 - Bash
 
-## Setup
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/gene-extraction.git
-cd gene-extraction
-
 # Make the script executable
 chmod +x gene_extraction.sh
 ```
